@@ -92,7 +92,8 @@ A API- Ecommerce JWT User oferece autenticação segura com JSON Web Tokens (JWT
 
 ![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/3fcf6254-47ed-4c86-8416-1dd169a7c2be)
 
-![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/dfb8691b-b349-4e8b-9273-af73af15615d)
+![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/139a272c-675d-422a-a136-8c1550aa4bb0)
+
 
 ![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/81a218ae-13d2-465a-8e60-d9f15d2271c8)
 
