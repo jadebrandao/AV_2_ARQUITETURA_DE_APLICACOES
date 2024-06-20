@@ -79,7 +79,7 @@ Os limites de taxa e uso da API JWT User são os seguintes:
 - X-RateLimit-Reset: O timestamp de quando a janela de limite de taxa atual será redefinida, em segundos do éon UTC.
   
 ## Conclusão
-A API JWT User oferece autenticação segura com JSON Web Tokens (JWT), permitindo acesso a endpoints protegidos por diferentes níveis de permissão (ADMIN, MODERADO, comum). Para começar, obtenha uma chave de API, inclua-a em solicitações HTTPS e utilize tokens JWT para autenticação. A API possui limites de taxa de 300 solicitações por minuto por chave de API, com respostas detalhadas sobre o status da taxa de solicitações.
+A API- Ecommerce JWT User oferece autenticação segura com JSON Web Tokens (JWT), permitindo acesso a endpoints protegidos por diferentes níveis de permissão (ADMIN, MODERADO, comum). Para começar, obtenha uma chave de API, inclua-a em solicitações HTTPS e utilize tokens JWT para autenticação. A API possui limites de taxa de 300 solicitações por minuto por chave de API, com respostas detalhadas sobre o status da taxa de solicitações.
 
 ### Diagrama - JWT
 
