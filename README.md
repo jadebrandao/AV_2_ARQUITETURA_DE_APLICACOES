@@ -88,13 +88,17 @@ A API- Ecommerce JWT User oferece autenticação segura com JSON Web Tokens (JWT
 (https://bit.ly/3XpgaHr)
 
 ### Imagens do Insomnia em execusão: 
-![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/78ba6770-7385-458e-a167-dd4dee99093a)
-![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/bbde9aee-8a67-4a7f-8a96-badcaeb16938)
-![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/33f64630-053e-45ee-8a7e-08f2918ed693)
-![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/51a41589-03b3-445b-98c2-fb75820545e2)
-![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/d1099e81-a289-46f6-b5f3-9154442f4478)
+![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/bb11766f-fcb7-4230-9bfb-927b769516a1)
 
+![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/3fcf6254-47ed-4c86-8416-1dd169a7c2be)
 
+![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/dfb8691b-b349-4e8b-9273-af73af15615d)
+
+![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/81a218ae-13d2-465a-8e60-d9f15d2271c8)
+
+![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/3f0236ad-77ed-4043-9e1b-083ead6c4a27)
+
+![image](https://github.com/jadebrandao/AV_2_ARQUITETURA_DE_APLICACOES/assets/108814737/bddc85f7-240f-4381-a042-039ed8808a1c)
 
 
 
